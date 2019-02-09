@@ -16,5 +16,29 @@ public class BreakfastRecipeFragment extends android.support.v4.app.Fragment {
 
 
 
+
+    /*private String mTextViews;
+    private String mEditTexts;
+
+    public String getTextViews() {
+        return mTextViews;
+    }
+
+    public void setTextViews(String textViews) {
+        mTextViews = textViews;
+    }
+
+    public String getEditTexts() {
+        return mEditTexts;
+    }
+
+    public void setEditTexts(String editTexts) {
+        mEditTexts = editTexts;
+    }
+
+    public
+    */
+
 }
+
 
