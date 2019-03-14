@@ -15,6 +15,7 @@ public class BreakfastRecipe {
 
     public BreakfastRecipe() {
         name = "Ada";
+        name = "Lizzie";
     }
 }
 
